@@ -64,7 +64,7 @@ $zz5='<div class="zz">纯白<br>作者：<a href="http://qqdie.com" target="_bla
       
     $bgUrl = new Typecho_Widget_Helper_Form_Element_Text('bgUrl', NULL, NULL, _t('自定义背景图'), _t('选中上方的基础样式后，可以在这里填写图片地址自定义背景图；<b>注意</b>：带有【动态】标识的风格不支持自定义背景图。
     <p class="dalao"><b>Logo重新设计</b>：<a href="http://siitake.cn/" target="_blank">香菇社长</a></p><p class="dalao">
-    <b>资金赞助者</b>：<br>御坂_20001，上善若水μn，gary，腾讯云渠道代理商，汉熙秦家官方号，<a href="http://www.xinyouqu.com/" target="_blank">晴栀</a>，小火龙，管理喜欢玩3P，王忘杰</p>'));
+    <b>资金赞助者</b>：<br>御坂_20001，上善若水μn，gary，腾讯云渠道代理商，汉熙秦家官方号，<a href="http://www.xinyouqu.com/" target="_blank">晴栀</a>，小火龙，管理喜欢玩3P，<a href="https://9sb.org/" target="_blank">王忘杰</a></p>'));
     $form->addInput($bgUrl);
     }
     
