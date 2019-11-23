@@ -1,18 +1,16 @@
 body {
-    background: #111;
-}
-#canvas {background: #111;
-    z-index: -1;top:0;
-    position: absolute;
-    display: block;
-    margin: 0 auto;
+    font-family: roboto,sans-serif;
+    text-align: center;
+    background: #000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 .typecho-login {
-    background: rgba(0, 0, 0, 0.7);
-    display: block;
-    padding: 10px 20px;
-    border-radius: 5px;
-    margin-top: 20vh;
     color: #fff;
 }
 input[type=text], input[type=password], input[type=email], textarea {
@@ -29,7 +27,7 @@ input[type=text], input[type=password], input[type=email], textarea {
     margin-top: 0;
 }
 a {
- color: #00c14d;/*默认超链接颜色*/
+    color: #00a9ff;/*默认超链接颜色*/
 }
 .typecho-login h1 {
     margin: 10px 0 0;
