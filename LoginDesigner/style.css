@@ -72,7 +72,7 @@ display: block;
   }
 #yangshi span {
     margin-right: 0px;max-width: 100%;
-    display: inline-block;
+    display: inline-block;    margin-bottom: 10px;
 }
 #yangshi li{
   text-align: center;
