@@ -78,7 +78,7 @@ $zz10='<div class="zz">空白样式<br>不使用内置样式</div>';
     
     $diycss = new Typecho_Widget_Helper_Form_Element_Textarea('diycss', NULL,NULL,'自定义样式', _t('上边的样式选择【空白样式】，然后在这里自己写css美化注册/登录页面；<b>注意</b>：该功能与【自定义背景图】功能冲突，使用该功能时如果想设置背景图请写css里面。
     <p class="dalao"><b>LOGO设计</b>：<a href="http://siitake.cn/" target="_blank">香菇社长</a></p><p class="dalao">
-    <b>资金赞助者</b>：<br>御坂_20001，上善若水μn，gary，腾讯云渠道代理商，汉熙秦家官方号，<a href="http://www.xinyouqu.com/" target="_blank">晴栀</a>，小火龙，管理喜欢玩3P，<a href="https://9sb.org/" target="_blank">王忘杰</a></p>'));
+    <b>资金赞助者</b>：<br>御坂_20001，上善若水μn，gary，<a href="https://www.qioke.com/" target="_blank">腾讯云渠道代理商</a>，汉熙秦家官方号，<a href="http://www.xinyouqu.com/" target="_blank">晴栀</a>，小火龙，管理喜欢玩3P，<a href="https://9sb.org/" target="_blank">王忘杰</a></p>'));
     $form->addInput($diycss);
       
     }
