@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * @package Login Designer
  * @author 泽泽社长
  * @version 1.3.0
- * @link https://qqdie.com/archives/typecho-LoginDesigner-plugin.html
+ * @link https://zezeshe.com/archives/typecho-LoginDesigner-plugin.html
  */
 class LoginDesigner_Plugin implements Typecho_Plugin_Interface
 {
