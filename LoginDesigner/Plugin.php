@@ -5,7 +5,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * 
  * @package Login Designer
  * @author 泽泽社长
- * @version 1.3.5
+ * @version 1.3.6
  * @link https://zezeshe.com/archives/typecho-LoginDesigner-plugin.html
  */
 class LoginDesigner_Plugin implements Typecho_Plugin_Interface
@@ -162,7 +162,7 @@ $ft='<script type="text/javascript">
                     r23.css(\'background-image\', \'url('.$url.'img/33.png)\');
                 });
                 });
-</script>\'); ';
+</script>';
 }
 echo $ft;
   }  }
